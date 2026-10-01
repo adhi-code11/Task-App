@@ -8,3 +8,6 @@ View all your tasks in the task dashboard
 Track overall progress
 See the progress of individual tasks
 Mark tasks as completed
+
+## Download
+https://github.com/adhi-code11/Task-App/releases/download/v1.0.0/Task.apk
